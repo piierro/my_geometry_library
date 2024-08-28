@@ -2,13 +2,7 @@
 
 This library is written in TypeScript and allows you to work with geometric shapes: rectangles, triangles, and circles.
 
-## Installation
-
-You can install the library npm:
-
-npm install my__geometry_library
-
-**Пример использования**
+**Example of use**
 
 ```typescript
 import { Rectangle, Circle, Triangle } from 'my_geometry_library';
