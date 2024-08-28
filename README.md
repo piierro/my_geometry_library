@@ -6,11 +6,7 @@ This library is written in TypeScript and allows you to work with geometric shap
 
 You can install the library npm:
 
-```bash
 npm install my__geometry_library
-
-```md
-## Usage
 
 **Пример использования**
 
